@@ -27,3 +27,5 @@ fig,axes = plt.subplots(nrows = 1, ncols = 2)    #submap is of 1 row, 2 columns
 for ax in axes:
     ax.plot(x,y,'r')
     plt.show()
+
+    
